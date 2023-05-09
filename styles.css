@@ -8,9 +8,8 @@ nav{
     background-color: rgb(211,211,211) ;
 }
 .container nav ul{
-	float: center
-    
-	display: flex;
+	float: center;
+    display: flex;
 }
 nav li{
 	display: flex;
