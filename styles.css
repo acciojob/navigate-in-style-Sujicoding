@@ -1,12 +1,13 @@
 /*  your css code here. If applicable */
 .container{
 	 padding: 10px;
+	background-color: rgb(211,211,211) ;
 }
 nav{
    padding: 10px;
     background-color: rgb(211,211,211) ;
 }
-nav ul{
+.container nav ul{
 	float: center
     
 	display: flex;
