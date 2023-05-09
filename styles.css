@@ -4,7 +4,7 @@
 }
 nav{
    padding: 10px;
-    background-color: #D3D3D3 ;
+    background-color: rgb(211,211,211) ;
 }
 nav ul{
 	float: center
@@ -12,6 +12,7 @@ nav ul{
 	display: flex;
 }
 nav li{
+	display: flex;
     display: inline;
     list-style: none;
 	margin-right: 1rem;
