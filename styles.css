@@ -7,8 +7,10 @@ nav{
     background-color: #D3D3D3 ;
 }
 nav ul{
-	display: inline-block;
+    float: right;
+}
+nav li{
+    display: inline-block;
+    list-style: none;
 	margin-right: 1rem;
-	list-style: none;
-	
 }
