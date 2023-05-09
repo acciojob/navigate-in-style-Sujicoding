@@ -1,13 +1,17 @@
 /*  your css code here. If applicable */
+.container{
+	 padding: 10px;
+}
 nav{
    padding: 10px;
     background-color: #D3D3D3 ;
 }
 nav ul{
     float: right;
+	display: flex;
 }
 nav li{
-    display: inline-block;
+    display: inline;
     list-style: none;
 	margin-right: 1rem;
 }
